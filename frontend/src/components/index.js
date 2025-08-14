@@ -1,0 +1,12 @@
+export { default as HomePage } from './HomePage';
+export { default as TestPage } from './TestPage';
+export { default as ResultPage } from './ResultPage';
+export { default as AdminLogin } from './AdminLogin';
+export { default as AdminPanel } from './AdminPanel';
+export { default as ProtectedAdminRoute } from './ProtectedAdminRoute';
+export { default as Header } from './Header';
+export { default as WelcomeSection } from './WelcomeSection';
+export { default as TestInfoSection } from './TestInfoSection';
+export { default as StatisticsSection } from './StatisticsSection';
+export { default as UserReviewsSection } from './UserReviewsSection';
+export { default as Footer } from './Footer';
